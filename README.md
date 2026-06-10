@@ -41,4 +41,7 @@ Using the ESP-EYE camera and microphone, this project builds a complete workflow
 | 03 | [Inference Loop](notes/03-inference-loop.md) | Done |
 | 04 | [process_impulse — Branch Selection](notes/04-process-impulse.md) | Done |
 | 05 | [FOMO Post-processing](notes/05-fomo-postprocessing.md) | Done |
-| 06 | I2C & Accelerometer | Upcoming |
+| 06 | [WiFi Connectivity](notes/06-wifi-connectivity.md) | Done |
+| 07 | [Firebase Realtime Database Integration](notes/07-firebase-integration.md) | Done |
+| 08 | [Mobile App — React Native + Expo](notes/08-mobile-app-react-native.md) | Done |
+| 09 | I2C & Accelerometer | Upcoming |
